@@ -46,7 +46,7 @@ void loop()
 ~~~
 
 ### OUTPUT
-![Output]()
+![Output](https://github.com/vijay21500269/Experiment-no-7-DC-Motor-Speed-Control-Using-Arduino/blob/main/Screenshot%20(25).png)
 
 ### RESULTS AND DISCUSSION 
 
